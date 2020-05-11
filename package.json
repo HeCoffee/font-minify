@@ -1,0 +1,14 @@
+{
+  "name": "fontmini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buide": "font-spider ./*.html"
+  },
+  "author": "Hobby",
+  "license": "ISC",
+  "devDependencies": {
+    "font-spider": "^1.3.5"
+  }
+}
